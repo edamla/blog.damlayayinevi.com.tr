@@ -3,7 +3,7 @@ layout: post
 title:  "Akıllı Damla Otokontrollü Yaprak Testler"
 authors: []
 categories: [ Kültür ]
-image: assets/images/posts/akıllı-damla-otokontrollu-yaprak-test.jpg
+image: assets/images/posts/akilli-damla-otokontrollu-yaprak-test.jpg
 tags: [otokontrollu test nasıl hesaplanır,yaprak test]
 featured: false
 ---
