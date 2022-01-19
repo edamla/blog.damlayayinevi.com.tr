@@ -12,6 +12,12 @@
             "alt": "slide2",
             "href": "#",
             "target": ""
+        }, {
+            "img": "assets/images/slides/3.jpg",
+            "mobile-img": "assets/images/slides/3m.jpg",
+            "alt": "slide3",
+            "href": "#",
+            "target": ""
         }]
 
 }
