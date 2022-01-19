@@ -3,7 +3,7 @@ layout: post
 title:  "Beyoğlu'nda Bir Hafız"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/beyoğul1.jpg
+image: assets/images/posts/beyoglu1.jpg
 tags: []
 featured: false
 ---

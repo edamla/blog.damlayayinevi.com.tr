@@ -25,49 +25,52 @@ comments: false
     a:hover {
         text-decoration: none !important;
     }
+    .catalogue-baslik{
+        margin-top: 10px;
+    }
 </style>
 <div class="container">
     <div class="row">
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/cocuk-edebiyati/index.html" target="_blank">
                 <img src="assets/images/damlayayinevi-1990.jpg" alt="">
-                <h5>Çocuk Edebiyatı Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Çocuk Edebiyatı Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/genc-damla/index.html" target="_blank">
                 <img src="assets/images/genc-damla.jpg" alt="">
-                <h5>Genç Damla Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Genç Damla Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/mihrabad-yayinlari/index.html" target="_blank">
                 <img src="assets/images/mihrabad-yayinlari.jpg" alt="">
-                <h5>Mihrabad Yayınları Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Mihrabad Yayınları Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html" target="_blank">
                 <img src="assets/images/humayun-yayinlari.jpg" alt="">
-                <h5>Hümayun Yayınları Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Hümayun Yayınları Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/okul-oncesi-egitim/index.html" target="_blank">
                 <img src="assets/images/minik-damla.jpg" alt="">
-                <h5>Okul Öncesi Eğitim Yayınları Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Okul Öncesi Eğitim Yayınları Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/ilkokul-egitim/index.html" target="_blank">
                 <img src="assets/images/ilkokul.jpg" alt="">
-                <h5>İlkokul Eğitim Yayınları Kataloğu</h5>
+                <h5 class="catalogue-baslik" >İlkokul Eğitim Yayınları Kataloğu</h5>
             </a>
         </div>
         <div class="col-12 col-sm-4">
             <a class="catalogue-link" href="https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/ortaokul-egitim/index.html" target="_blank">
                 <img src="assets/images/ortaokul.jpg" alt="">
-                <h5>Ortaokul Eğitim Yayınları Kataloğu</h5>
+                <h5 class="catalogue-baslik" >Ortaokul Eğitim Yayınları Kataloğu</h5>
             </a>
         </div>
     </div>

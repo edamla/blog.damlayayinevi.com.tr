@@ -3,7 +3,7 @@ layout: post
 title:  "Orta Doğu’daki Çanakkale Savaşımız: Kut’ül Amare"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/kutülamare.jpg
+image: assets/images/posts/kutulamare.jpg
 tags: []
 featured: false
 ---

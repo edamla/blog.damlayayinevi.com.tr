@@ -3,7 +3,7 @@ layout: post
 title:  "DAMLA VE MİHRABAD YAZARLARI 38. İSTANBUL TÜYAP KİTAP FUARINDA"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/2-damla-mihrabad-tüyap-afişi.jpg
+image: assets/images/posts/2-damla-mihrabad-tuyap-afisi.jpg
 tags: []
 featured: false
 ---

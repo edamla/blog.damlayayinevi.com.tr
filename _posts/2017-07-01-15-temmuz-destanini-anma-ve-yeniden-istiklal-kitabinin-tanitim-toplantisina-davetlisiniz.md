@@ -3,7 +3,7 @@ layout: post
 title:  "15 Temmuz Destanı'nı Anma ve Yeniden İstiklal Kitabının Tanıtım Toplantısına Davetlisiniz"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/15-temmuz-yeniden-istiklal1.jpg
+image: assets/images/posts/15-temmuz-yeniden-istiklal1.png
 tags: []
 featured: false
 ---

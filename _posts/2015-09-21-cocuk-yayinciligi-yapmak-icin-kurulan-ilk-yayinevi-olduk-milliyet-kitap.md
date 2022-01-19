@@ -3,7 +3,7 @@ layout: post
 title:  "Çocuk Yayıncılığı Yapmak İçin Kurulan İlk Yayınevi Olduk &#8211; Milliyet Kitap"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/roportaj-huseyin-dogru.jpg
+image: assets/images/posts/roportaj-huseyin-dogru.png
 tags: [damla yayınevi, milliyet kitap]
 featured: false
 ---

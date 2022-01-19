@@ -3,7 +3,7 @@ layout: post
 title:  "Bloom Taksonomisi’ne Göre Sosyal Bilgiler Soru Bankası 6 Sınıf"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/Bloom-Taksonomisine-Göre-Sosyal-Bilgiler-Soru-Bankası2.jpg
+image: assets/images/posts/bt-sosyal-bilgiler.jpg
 tags: [Bloom Taksonomisi, Sosyal Bilgiler Soru Bankası]
 featured: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Bloom Taksonomisi’ne Göre Matematik Soru Bankası 6 Sınıf"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/Bloom-Taksonomisine-Göre-Matematik-Soru-Bankası2.jpg
+image: assets/images/posts/bt-matematik-sb.jpg
 tags: [Bloom Taksonomisi, Matematik Soru Bankası]
 featured: false
 ---

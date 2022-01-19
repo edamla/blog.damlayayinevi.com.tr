@@ -3,7 +3,7 @@ layout: post
 title:  "NURETTİN TAŞKESEN, ENDÜLÜS FATİHLERİ'Nİ ANLATTI"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/7-Endülüs.jpg
+image: assets/images/posts/7-Endulus.jpg
 tags: []
 featured: false
 ---

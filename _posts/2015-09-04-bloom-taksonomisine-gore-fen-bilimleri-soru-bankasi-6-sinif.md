@@ -3,7 +3,7 @@ layout: post
 title:  "Bloom Taksonomisi’ne Göre Fen Bilimleri Soru Bankası 6 Sınıf"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/Bloom-Taksonomisine-Göre-Fen-Bilimleri-Soru-Bankası2.jpg
+image: assets/images/posts/bt-fen-bilimleri-sb.jpg
 tags: [Bloom Taksonomisi, Fen Bilimleri]
 featured: false
 ---

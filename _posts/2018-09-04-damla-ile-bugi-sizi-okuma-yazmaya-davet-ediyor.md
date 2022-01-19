@@ -3,7 +3,7 @@ layout: post
 title:  "Damla ile Bugi Sizi Okuma Yazmaya Davet Ediyor"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/damla-bugi-sarki.jpg
+image: assets/images/posts/damla-bugi-sarki.png
 tags: []
 featured: false
 ---

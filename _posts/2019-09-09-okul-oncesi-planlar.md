@@ -3,7 +3,7 @@ layout: post
 title:  "Okul Öncesi Tam ve Yarım Günlük Planlar"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/planlar2021.jpg
+image: assets/images/posts/planlar2021.png
 tags: []
 featured: false
 ---

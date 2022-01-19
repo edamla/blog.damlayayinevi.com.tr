@@ -3,7 +3,7 @@ layout: post
 title:  "15 Temmuz 2016 Darbe Teşebbüsünü Kınıyoruz"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/turk-bayragi1.jpg
+image: assets/images/posts/turk-bayragi1.png
 tags: [15 Temmuz 2016, Darbe Teşebbüsü]
 featured: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Engelsiz Bir Dünya Temasıyla Cnr Kitap Fuarı Açıldı"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/cnr-kitap-fuarı-açılışı-4.jpg
+image: assets/images/posts/cnr-kitap-fuari-acilisi-4.jpg
 tags: [cnr kitap fuarı]
 featured: false
 ---

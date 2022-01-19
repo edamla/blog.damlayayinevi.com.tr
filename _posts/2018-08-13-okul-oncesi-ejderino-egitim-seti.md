@@ -3,7 +3,7 @@ layout: post
 title:  "Okul Öncesi Ejderino Eğitim Seti"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/damla-bugi-sarki.jpg
+image: assets/images/posts/damla-bugi-sarki.png
 tags: []
 featured: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Vatan Kalbinin Attığı Yer Çanakkale Kitap Fragmanı"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/vatan-kilidi-canakkale.jpg
+image: assets/images/posts/vatan-kilidi-canakkale.png
 tags: [57. Alay, anafartalar, çanakkale destanı]
 featured: false
 ---

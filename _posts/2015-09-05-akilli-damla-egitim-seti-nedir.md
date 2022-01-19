@@ -3,7 +3,7 @@ layout: post
 title:  "Akıllı Damla Eğitim Seti Nedir?"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/akıllı-damla.jpg
+image: assets/images/posts/akilli-damla.jpg
 tags: [Bloom Taksonomisi, Sosyal Bilgiler Soru Bankası]
 featured: false
 ---

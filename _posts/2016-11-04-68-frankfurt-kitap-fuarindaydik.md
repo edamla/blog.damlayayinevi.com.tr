@@ -3,7 +3,7 @@ layout: post
 title:  "68. Frankfurt Kitap Fuarı'ndaydık"
 authors: []
 categories: [ Eğitim ]
-image: assets/images/posts/frank-furt-2017a.jpg
+image: assets/images/posts/frank-furt-2017a.png
 tags: [frankfurt, frankfurt kitap fuarı]
 featured: false
 ---
