@@ -3,6 +3,7 @@ layout: default
 ---
 {% assign authors = page.authors %}
 <div class="container">
+
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row justify-content-center">
@@ -44,7 +45,7 @@ layout: default
 
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
+		{% include share.html %}	
         
         <!-- Share -->
 		<!-- <div class="col-lg-2 pr-4 mb-4 col-md-12">
@@ -66,7 +67,7 @@ layout: default
 		</div> -->
         
         
-		<div class="col-md-12 col-lg-8">
+		<div class="col-md-12 col-lg-8 order-1 order-md-2">
             
             <!-- Article -->
 			<article class="article-post">                
@@ -77,7 +78,7 @@ layout: default
 			<div class="mb-4">
 				<span class="taglist">
 				{% for tag in page.tags %}
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase | slugify: 'latin' }}">#{{ tag | downcase }}</a>
 				{% endfor %}
 				</span>
 			</div>
@@ -123,7 +124,8 @@ layout: default
 					</div>
 				</div>				
                 {% endif %}
-            
+		</div>
+		<div class="col-md-12 col-lg-8 order-last">
             <!-- Comments -->
             {% if page.comments != false %}
                 {% include comments.html %}
