@@ -127,7 +127,7 @@ excerpt_separator: <!--more-->
 
 # Paginate
 paginate: 10
-paginate_path: /page:num/
+paginate_path: /sayfa:num/
 #paginate_path: "/blog/page:num/"
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
