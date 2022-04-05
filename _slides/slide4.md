@@ -1,8 +1,8 @@
 ---
 order: 4
-title:  "Mustafa Armağan Adana Çukurova Fuarı'nda İmza ve Söyleşi"
-img: "/assets/images/slides/4.jpg"
-mobile-img: "/assets/images/slides/4m.jpg"
+title:  "Endülüs Fatihleri, Elhamra'nın Gözyaşları, Kurtuba'nın Altın Çağı"
+img: "/assets/images/slides/3.jpg"
+mobile-img: "/assets/images/slides/3m.jpg"
 href: "#"
 target: "" # _blank
 ---
