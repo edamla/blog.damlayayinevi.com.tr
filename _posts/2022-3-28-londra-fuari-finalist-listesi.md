@@ -4,7 +4,7 @@ title: "Damla Yayınevi Londra Kitap Fuarı Uluslararası Mükemmellik 2022 Öd�
 # author: damlayayinevi
 categories: [ Kültür ]
 featured: true
-tags: [Zafer Bilgi, 66 Adımda Ayasofya, Ayasofya]
+tags: [Londra Fuarı, Finalist Listesi,London Book Fair]
 image: assets/images/posts/londra-fuari-finalist-listesi.png
 rating: 4.5
 ---
