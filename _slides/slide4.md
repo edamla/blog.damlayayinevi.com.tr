@@ -1,8 +1,8 @@
 ---
 order: 4
-title:  "Endülüs Fatihleri, Elhamra'nın Gözyaşları, Kurtuba'nın Altın Çağı"
-img: "/assets/images/slides/3.jpg"
-mobile-img: "/assets/images/slides/3m.jpg"
+title:  "Abdulhamid'in Kurtlarla Dansı 1"
+img: "/assets/images/slides/2.jpg"
+mobile-img: "/assets/images/slides/2m.jpg"
 href: "#"
 target: "" # _blank
 ---
