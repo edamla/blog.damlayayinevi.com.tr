@@ -9,7 +9,7 @@ image: assets/images/posts/yarin-aciliyor.jpg
 rating: 4.5
 ---
 <p style="text-align: justify;">
-  Heyecanla beklenen 40. İstanbul Kitap Fuarı'nın açılmasına saatler kaldı! 40. İstanbul Kitap Fuarı'na ziyaretçi olarak katılım sağlamak için <a href="https://istanbulkitapfuari.com/">www.istanbulkitapfuari.com</a>web sitesini ziyaret edebilirsiniz.
+  Heyecanla beklenen 40. İstanbul Kitap Fuarı'nın açılmasına saatler kaldı! 40. İstanbul Kitap Fuarı'na ziyaretçi olarak katılım sağlamak için <a href="https://istanbulkitapfuari.com/">www.istanbulkitapfuari.com</a> web sitesini ziyaret edebilirsiniz.
 </p>
  
 **Fuar;  öğrenci, öğretmen, engelli ve emeklilere ücretsizdir.**
