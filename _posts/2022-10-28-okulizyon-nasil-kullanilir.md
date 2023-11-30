@@ -5,7 +5,7 @@ title: "Okulizyon Nasıl Kullanılır?"
 categories: [ Eğitim ]
 featured: true
 tags: [okulizyon]
-image: assets/images/posts/okulizyon.png
+# image: assets/images/posts/okulizyon.png
 rating: 4.5
 ---
 
