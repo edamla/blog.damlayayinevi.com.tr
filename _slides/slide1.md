@@ -1,6 +1,6 @@
 ---
 order: 1
-title:  "Saçaklı Kız'ın Pasaklı Günlüğü"
+title:  "Üsküdar Kitap Fuarı"
 img: "/assets/images/slides/8.jpg"
 mobile-img: "/assets/images/slides/8m.jpg"
 href: "#"
